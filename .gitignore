@@ -3,3 +3,5 @@
 ################################################################################
 
 /ConsoleApp3/bin/Debug/netcoreapp2.1
+/ConsoleApp3/obj
+*.gitignore
